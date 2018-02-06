@@ -17,15 +17,16 @@ lecture:
 
 Xu et al, Science 2012. EZH2 oncogenic activity in castration-resistant prostate cancer cells is Polycomb-independent. PMID: [23239736](http://www.ncbi.nlm.nih.gov/pubmed/23239736)
 
-The expression data is available at GEO under GSE39461, and for this HW
-we only need the first 12 samples. There are two prostate cancer cell
-lines used: LNCaP and ABL (please ignore the “DHT” and “VEH” labels). To
-see the function of EZH2 gene, the authors knocked down EZH2 (siEZH2) in
-the two cell lines and examined the genes that are differentially
-expressed compared to the control, and generated 3 replicates for each
-condition. They are also interested in finding whether the genes
-regulated by EZH2 are similar or different in the LNCaP and ABL cell
-lines.
+The expression data is available at [GEO under
+GSE39461](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE39461),
+and for this HW we only need the first 12 samples. There are two
+prostate cancer cell lines used: LNCaP and ABL (please ignore the “DHT”
+and “VEH” labels). To see the function of EZH2 gene, the authors knocked
+down EZH2 (siEZH2) in the two cell lines and examined the genes that are
+differentially expressed compared to the control, and generated 3
+replicates for each condition. They are also interested in finding
+whether the genes regulated by EZH2 are similar or different in the
+LNCaP and ABL cell lines.
 
 First, take a look at the following quick tutorial about Affymetrix
 array analysis:
